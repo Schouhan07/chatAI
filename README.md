@@ -19,5 +19,4 @@ Ensure you have the following installed on your machine:
 
 Node.js (v12 or higher) - Download here
 npm (Node Package Manager) - Installed with Node.js
-MongoDB - Download here
-Git (optional)
+MongoDB 
